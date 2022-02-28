@@ -1,6 +1,4 @@
-# @Time : 2022/2/27 10:45 
-# @Author : 818号
-# -*- coding:utf-8 -*-
+
 # @File : 科赫雪花绘制_02_27.py
 import turtle
 def koch(size, n):
