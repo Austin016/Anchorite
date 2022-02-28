@@ -1,4 +1,3 @@
-
 # @File : 科赫雪花绘制_02_27.py
 import turtle
 def koch(size, n):
